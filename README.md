@@ -1,4 +1,3 @@
 # science
 
-! Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+{note:title=Be Careful}The body of the note.{note}
