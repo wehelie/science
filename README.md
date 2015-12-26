@@ -1,3 +1,3 @@
 # science
 
-{note:title=Be Careful}The body of the note.{note}
+{warning:title=Warning}The warning message.{warning}
